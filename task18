@@ -1,1 +1,1 @@
-//book[child::year='2003']
+//book[child::year=2003]
